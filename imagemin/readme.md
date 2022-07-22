@@ -5,7 +5,7 @@
 - 执行node index_back.js
 
 ### 压缩外部目录的文件
-- C:/Users/zhangjie/Desktop/images 目录下的图片压缩
-- node index.js C:/Users/zhangjie/Desktop/images
+- C:/Users/zhangji/Desktop/images 目录下的图片压缩
+- node index.js C:/Users/zhangji/Desktop/images
 - 会自动生成images_min目录
 - 目前不支持目录嵌套
